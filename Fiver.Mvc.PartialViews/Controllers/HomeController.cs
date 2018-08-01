@@ -19,7 +19,7 @@ namespace Fiver.Mvc.PartialViews.Controllers
                     Line3 = "UK",
                     Line4 = "Secret Location",
                     Line5 = "London",
-                    Line6 = "UK"
+                    Line6 = "UK Secret Location"
                 }
             };
             return View(model);
